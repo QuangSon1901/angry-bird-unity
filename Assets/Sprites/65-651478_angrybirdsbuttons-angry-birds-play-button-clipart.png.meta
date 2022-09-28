@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: ed8d1d442a113b64baacbacd85f1647c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 349
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4384ecc1b1fb2824f9a22bb27aabd9bd
+      internalID: -372873957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 588
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da008499760fd24b8a441adc2544022
+      internalID: 1371614529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 588
+        width: 180
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026991de58bdaea4ca6ab734370508ac
+      internalID: 641649818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 551
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849e65bc358eabb429777b56457354b0
+      internalID: -613057251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 350
+        width: 180
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66726f89f9778b4dbe6a472fba8f7b4
+      internalID: -312408968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 376
+        width: 250
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce3d204d8190e2439d1f3f1d205aaa7
+      internalID: -230143284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 464
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbd6f710c02d7644ba81e3953d9f788
+      internalID: 141853210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 464
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d38e78dc92a0e459af5863d180d0e4
+      internalID: -1724339056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 464
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f43eba62f466a4da75b4e0d0a92150
+      internalID: -432100335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_9
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 487
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eac8447cc6dc441b7ee7da3bb9f386
+      internalID: -1157434298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 376
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2200f799ffd264da85b026515584cf
+      internalID: -1399537068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 376
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fa3a654ac7b444fabeb262b42349ba
+      internalID: -880677989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_12
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 384
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dff0fc4dbae5740831c47f1e53f3cc
+      internalID: 364083965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 384
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdaa51ba673d8f42b5d1cbb3ad9e684
+      internalID: 872682703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61372822f01886745b935f93ae531352
+      internalID: 448054050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 288
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fece378149f014eb20de574e850ab4
+      internalID: 1223239228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce7fac9af073047b05ddcffb9862db
+      internalID: 988133379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 292
+        width: 343
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4111664654afb3c499517c9990b1744d
+      internalID: -1881414067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_18
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 315
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d170764774804ab2d393489270281
+      internalID: -1511214265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 196
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1565f117bf1494c429b16f281ecf28b3
+      internalID: -1881411987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 198
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de084caee21bb8046a95bb0b2b412744
+      internalID: -457934453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 195
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519b4685f0ac35245a9486033c082735
+      internalID: 893057284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_22
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 218
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1d27c4eea102645a336d8a54a18be3
+      internalID: -936320510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 225
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b50c86aed04f6e47ad39e4085491260
+      internalID: -1698292797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 225
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b1ae47d9582db4790a366437e79a31
+      internalID: -1147272052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 236
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f3c648478504140a356dceccb94fb8
+      internalID: 1501500392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_26
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 228
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a0eea9585ff147ad2cb2c31eeaf81
+      internalID: 1000330463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb194b2d7013acd4f9e8afc95a900558
+      internalID: -2008316710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 110
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ea6be05742b084c83dd1b837a86ce5
+      internalID: -390607479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 130
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da4d16419390a94da4d1c563b3b3df5
+      internalID: -268256556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 158
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9351543b7d6d4dbe19b08a8587bf2
+      internalID: -83913004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa2eba2992b4c941bd173d3006ecd13
+      internalID: -1320346307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 52
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5080c633c71b9548a3e6db6d20b3184
+      internalID: 922218914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 63
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf27c253c8042740b2aecaeed47cfad
+      internalID: -1123225610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 91
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a948d44908041034791b46d1206d180f
+      internalID: 853023515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 15
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe8cbdef501764b90313553d5b34fc
+      internalID: -269285723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 29
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe86fb811400494abb346b91e3b1445
+      internalID: -1937773855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2979d61b252d9e489a4b505ea6c6e4f
+      internalID: 967430750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_38
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 33
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea15d968dd18b48be712fde7d728bc
+      internalID: 114367577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_4: -312408968
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_8: -432100335
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_37: 967430750
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_16: 988133379
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_14: 448054050
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_33: -1123225610
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_38: 114367577
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_10: -1399537068
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_20: -457934453
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_1: 1371614529
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_19: -1881411987
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_34: 853023515
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_23: -1698292797
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_28: -390607479
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_31: -1320346307
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_21: 893057284
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_15: 1223239228
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_26: 1000330463
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_18: -1511214265
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_30: -83913004
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_12: 364083965
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_32: 922218914
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_6: 141853210
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_36: -1937773855
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_13: 872682703
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_3: -613057251
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_5: -230143284
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_27: -2008316710
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_17: -1881414067
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_9: -1157434298
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_0: -372873957
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_7: -1724339056
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_11: -880677989
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_22: -936320510
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_2: 641649818
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_24: -1147272052
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_25: 1501500392
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_29: -268256556
+      65-651478_angrybirdsbuttons-angry-birds-play-button-clipart_35: -269285723
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
